@@ -1,4 +1,4 @@
-# ML Assignment 1 
+# ML Assignments
 The instructions below will get you started with running the programming component of the Assignment on your local machine.
 The below commands work for Linux/MacOS distributions.
 ### Prerequisites 
@@ -14,4 +14,7 @@ The dataset input to the given command should be a CSV file.
 ### adaboost
   Command : python adaboost.py --dataset <path to the dataset> --mode <erm/cv>
   Output : Weight vectors from the adaboost algorithm and mean error.
+
+### svm
+  Command : python svm.py 
   
